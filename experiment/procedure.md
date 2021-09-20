@@ -1,6 +1,6 @@
 #### Materials Required
  
-•	purified cytokine-specific primary antibody
+•	Purified cytokine-specific primary antibody
 
 •	Coating buffer
 
@@ -91,14 +91,18 @@
  
 •	The optimal concentration of cytokine-specific primary antibody should be determined in advance It is generally necessary to use concentrations 5- to 10-fold higher than those used in conventional ELISA assays (e.g., 5 to 10 µg/ml).The antibodies are usually diluted in PBS (pH 7.2 to 7.4) or borate buffer (pH 8.4). Because each antibody used for coating has different binding characteristics, it is necessary to determine the optimal coating conditions for each antibody.
 
+&nbsp;
+
 <img src="images/eli1.png" title="" />
 
 
 •	The appropriate concentration of secondary cytokine-specific antibody must be determined in advance (see suggested concentrations) and has to be diluted in  PBS containing 1% (w/v) BSA.
- 
-  <img src="images/eli2.png" title="" />     
-  
- 
+
+
+<img src="images/eli2.png" title="" />     
+
+&nbsp;
+
 •	For stimulus of the incubated cells  mitogens ,antigens or other stimulus is added  . Stimulation can occur prior to addition of the cells or during incubation on the plate. For standard ELISPOT analyses,  the stimuli can be added directly  to  the cells while  in  the nitrocellulose-backed microtiter plates. Also a  protein  inhibitor  such  as  cycloheximide  (100  g/ml)  can  be  used  as  an additional  control. Cycloheximide  should  be  added  to  3  or  4  replicate wells,  for  both unstimulated and stimulated cells, at the initiation of culture.
 
  
