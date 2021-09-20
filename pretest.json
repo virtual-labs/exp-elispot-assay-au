@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Complete RPMI-10 medium contains RPMI-1640 with: ",
+      "answers": {
+        "a": "15% FBS",
+        "b": "10% FBS",
+        "c": "1% FBS",
+        "d": "20% FBS"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. ELISPOT assays employ a technique very similar to the: ",
+      "answers": {
+        "a": "Indirect ELISA",
+        "b": "Direct ELISA",
+        "c": "Sandwich ELISA",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3.The importance of ELISPOT Assay is that:",
+      "answers": {
+        "a": "It measures the T-cell responses",
+        "b": "Detect specific antibody secretion by B cells",
+        "c": "Both of them",
+        "d": "None of these"
+      },
+          
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Point out the applications of ELISPOT ASSAY:",
+        "answers": {
+          "a": "It defines the vaccine efficiency",
+          "b": "For diagnostic purposes",
+          "c": "Investigate specific immune responses in various disease condition.",
+          "d": "All the above."
+        },
+
+            
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
