@@ -27,50 +27,42 @@ Elispot method   employs the sandwich assay approach of the enzyme-linked immuno
 
 (5)Detecting the antibody-cytokine complex.
 
-
 &nbsp;
  
-
-#### coating a purified cytokine-specific antibody to a nitrocellulose-backed micro titer plate: 
+#### Coating a purified cytokine-specific antibody to a nitrocellulose-backed micro titer plate: 
 
 The assay make use of 96 well plates backed with membranes such as  polyvinylidene difluoride (PVDF) or  nitrocellulose. NC and  PVDF membranes were developed to serve the needs of sterile filtration applications. The porosity and binding properties of these two membrane types enabled them to be used in two extremely important research applications; DNA and protein blotting. Both polyclonal antibody and monoclonal antibody can be used in ELISPOT for either antigen capture or antigen detection.  ELISPOT can use capture and detection antibodies that were raised against the entire antigen molecule or against a portion of antipeptide antibodies.
  
-
 &nbsp;
 
 #### Washing step:
 
 The purpose of washing step is to remove unbound antibodies. Plates can be washed with phosphate buffered saline(PBS) or Tris -buffered saline (pH 7.4) with detergent such as 0.05% (v/v) Tween20.
  
-
 &nbsp;
 
 #### Blocking step: 
 
 Blocking solution(PBS containing 5% (w/v) BSA or FCS) can be used to prevent nonspecific absorption of any other protein.
  
-
 &nbsp;
 
 #### Incubating the cytokine-secreting cells: 
 
 The cells are cultured in designated  plate and transferred into ELISPOT plates or cells are stimulated and cultured directly in ELISPOT plates.The cells can be stimulated one way or other,but the experimenter should keep in mind that cells cultured and stimulated outside ELISPOT plate need to be transferred into a fresh culture medium before being plated into an ELISPOT plate to avoid background staining. Cells of interest are plated out at varying densities in the presence or absence of specific stimulus and then incubated at 37°C to allow relevant cytokine induction and secretion. During incubation, the cells  become  activated  by  the stimulus and start to produce and secrete cytokine that binds to the capture antibody.
  
-
 &nbsp;
 
 #### Adding a labeled second anti-cytokine antibody: 
 
 Detection antibody which may be directly conjugated with enzyme or biotinylated is added. If using biotinylated detection antibody, a streptavidin-enzyme conjugate is added.  Horseradish peroxidase (HRP) or alkaline phosphatase(AP) can be used as streptavidin conjugates. By combining HRP and AP, it is possible to develop an ELISPOT assay for simultaneous detection of two different cell- secreted molecules.   
  
-
 &nbsp;
 
 #### Add substrate: 
 
 Finally a substrate added will form a colored spot at the location of the secreting cell. Regardless of which enzyme conjugate is used,their corresponding substrates should produce intense and stable colors.  HRP substrate such as AEC(3- amino-9-ethylcarbazole) forms intense red color spots and  another HRP SUBSTRATE DAB( 3,3’-diaminobenzidine) produces brown color spots.One of the most frequently used substrates for alkaline phosphate is a mixture of BCIP(5-bromo-4-chloro-3-indolylphosphate p-toluidine salt) and NBT (Nitroblue tetrazolium chloride) which forms intense Black blue spots.  Plates are scanned and evaluated for the number of antigen specific cells using powerful imaging system, the latest model of ELISPOT reader.
  
-
 &nbsp;
 
 #### Quantification of spots:  
